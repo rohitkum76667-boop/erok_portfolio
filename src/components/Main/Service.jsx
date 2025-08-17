@@ -56,7 +56,7 @@ const Service = () => (
                 <p>
                     <FormattedMessage
                         id='marketing-info'
-                        defaultMessage='Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.'
+                        defaultMessage='I provide ongoing website maintenance and support to ensure your applications remain secure, fast, and up-to-date. From fixing bugs to adding new features, I help businesses keep their digital presence reliable and optimized.'
                     />
                 </p>
             </div>
@@ -71,7 +71,7 @@ const Service = () => (
                 <p>
                     <FormattedMessage
                         id='maintenance-info'
-                        defaultMessage='Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.'
+                        defaultMessage='I provide ongoing website maintenance and support to ensure your applications remain secure, fast, and up-to-date. From fixing bugs to adding new features, I help businesses keep their digital presence reliable and optimized.'
                     />
                 </p>
             </div>
@@ -80,13 +80,13 @@ const Service = () => (
                 <h3>
                     <FormattedMessage
                         id='seo'
-                        defaultMessage='Web positioning (SEO)'
+                        defaultMessage='Database Design & Management'
                     />
                 </h3>
                 <p>
                     <FormattedMessage
                         id='seo-info'
-                        defaultMessage='Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines'
+                        defaultMessage='I specialize in designing, optimizing, and managing databases that power secure and scalable applications. With expertise in both SQL and NoSQL systems, I ensure data is structured, reliable, and easily accessible for business insights.'
                     />
                 </p>
             </div>
