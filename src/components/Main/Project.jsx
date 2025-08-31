@@ -2,7 +2,7 @@ import React from 'react';
 import '../../pages/Project/ProjectPage.css'
 import { Link } from 'react-router-dom';
 import { ButtomGet } from '../ButtomGet/ButtomGet';
-
+import { Pagination, Autoplay } from 'swiper/modules';
 /* Multi idioma */
 import { FormattedMessage } from 'react-intl';
 
@@ -10,7 +10,7 @@ import { FormattedMessage } from 'react-intl';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import "swiper/css/pagination";
-import { Pagination, Autoplay } from "swiper";
+
 
 /* Img */
 const proyectImg = require.context('../../img', true);
